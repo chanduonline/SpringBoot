@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBoot_Security_03
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: chandra
+Implementation-Vendor-Id: com.chandra.springboot
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringBoot_Security_03
+Created-By: Maven Integration for Eclipse
+
